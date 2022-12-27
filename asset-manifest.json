@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-concepts-demo/static/css/main.28310834.chunk.css",
+    "main.js": "/react-concepts-demo/static/js/main.3ffe4dc3.chunk.js",
+    "main.js.map": "/react-concepts-demo/static/js/main.3ffe4dc3.chunk.js.map",
+    "runtime-main.js": "/react-concepts-demo/static/js/runtime-main.f6175b9f.js",
+    "runtime-main.js.map": "/react-concepts-demo/static/js/runtime-main.f6175b9f.js.map",
+    "static/js/2.f33e1dc6.chunk.js": "/react-concepts-demo/static/js/2.f33e1dc6.chunk.js",
+    "static/js/2.f33e1dc6.chunk.js.map": "/react-concepts-demo/static/js/2.f33e1dc6.chunk.js.map",
+    "index.html": "/react-concepts-demo/index.html",
+    "static/css/main.28310834.chunk.css.map": "/react-concepts-demo/static/css/main.28310834.chunk.css.map",
+    "static/js/2.f33e1dc6.chunk.js.LICENSE.txt": "/react-concepts-demo/static/js/2.f33e1dc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6175b9f.js",
+    "static/js/2.f33e1dc6.chunk.js",
+    "static/css/main.28310834.chunk.css",
+    "static/js/main.3ffe4dc3.chunk.js"
+  ]
+}
